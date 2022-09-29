@@ -1,5 +1,5 @@
 import { Header } from "./components/Header";
-import { Post } from "./components/Post";
+import { Post, PostProps } from "./components/Post";
 import { Sidebar } from "./components/Sidebar";
 
 import styles from './App.module.css';
@@ -10,7 +10,11 @@ import './global.css';
 // publishedAt: Date
 // content: String
 
-const posts = [
+interface Posts extends PostProps {
+  id: number
+}
+
+const posts:Posts[] = [
   {
     id: 1,
     author: {
