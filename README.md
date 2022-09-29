@@ -1,4 +1,4 @@
-# Projeto 1 do Ignite Rocketseat
+# Projeto 01 do Ignite Rocketseat
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@ $ npm run dev
 
 ```
 
-A aplicação pode ser acessada em [`localhost:3000`](http://localhost:3001).
+A aplicação pode ser acessada em [`localhost:3001`](http://localhost:3001).
 
 
 ## 💻 Projeto
