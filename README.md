@@ -19,6 +19,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [TypeScript](https://www.typescriptlang.org)
+- [Vite](https://vitejs.dev/)
 
 [VEJA O PROJETO FUNCIONANDO](https://01-fundamentos-reactjs-ts-c8h5.vercel.app/)
 
