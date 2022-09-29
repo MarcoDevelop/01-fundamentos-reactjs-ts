@@ -5,7 +5,6 @@
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout Original</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-nextlevel">Próximo Nível</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <br/><br/>
@@ -32,8 +31,6 @@ Clone o repositório e acesse a pasta.
 $ git clone https://github.com/MarcoDevelop/01-fundamentos-reactjs-ts
 
 Para iniciar o projeto:
-
-```bash
 
 # Instalar as dependências
 $ npm install
