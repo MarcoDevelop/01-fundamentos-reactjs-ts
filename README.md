@@ -44,7 +44,7 @@ A aplicação pode ser acessada em [`localhost:3001`](http://localhost:3001).
 
 
 ## 💻 Projeto
-Aplicação React utilizando o Vite. utilizado conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no projeto para adicionar tipagem estática à aplicação. 
+Aplicação React com o Vite, nele utilizamos os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no projeto para adicionar tipagem estática à aplicação. 
 
 
 ## 🔖 Layout
